@@ -1,0 +1,6 @@
+Email,FirstName,LastName,Country,CreatedOn,OrderStatus,DeliveryDate,ImageUrl
+cliente.1@google.com,Juan,Rodriguez,Paraguay,13/01/2024,1,1992-01-01T00:00:00Z,/orders/webapp/assets/cliente_1.png
+cliente.2@google.com,Pedro,Perez,Argentina,09/06/2024,2,1992-01-01T00:00:00Z,/orders/webapp/assets/cliente_2.png
+cliente.3@google.com,Ruben,Lopez,Brazil,27/11/2024,1,1992-01-01T00:00:00Z,/orders/webapp/assets/cliente_3.png
+cliente.4@google.com,Oscar,Perez,Paraguay,24/09/2024,3,1992-01-01T00:00:00Z,/orders/webapp/assets/cliente_4.png
+cliente.5@google.com,Maria,corrales,Argentina,13/01/2024,1,1992-01-01T00:00:00Z,/orders/webapp/assets/cliente_5.png
